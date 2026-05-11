@@ -1,0 +1,11 @@
+[workspace]
+authors = ["PisethMao <pisethmao2002@gmail.com>"]
+channels = ["conda-forge"]
+name = "Python All Lessons"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+numpy = ">=2.4.3,<3"
